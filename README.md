@@ -155,7 +155,7 @@ void lcdLine(uint8_t line, char *str)
 ### 동작 사진 / 영상
 
 | 계산기 조작 화면 |
-| :---: | :---: |
+| :---: |
 | https://drive.google.com/file/d/1OPa5Dz9ion9FBtcRDvxcF7H36bh4pj5t/view?usp=drive_link |
 
 ---
