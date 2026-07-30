@@ -154,9 +154,9 @@ void lcdLine(uint8_t line, char *str)
 
 ### 동작 사진 / 영상
 
-| 계산기 조작 화면 | 연산자 순환 및 결과 출력 |
+| 계산기 조작 화면 |
 | :---: | :---: |
-| ![Calculator](개인_구글드라이브_링크_첨부) | ![Operation](개인_구글드라이브_링크_첨부) |
+| https://drive.google.com/file/d/1OPa5Dz9ion9FBtcRDvxcF7H36bh4pj5t/view?usp=drive_link |
 
 ---
 
